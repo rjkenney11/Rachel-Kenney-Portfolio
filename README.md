@@ -1,4 +1,9 @@
 ## Personal Portfolio
+
+## Description
+   Get to know me better!
+   Check out the projects that I am most proud of!
+   Reach out!
  
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/74163812/112730974-eb983d80-8f0a-11eb-880c-8451c3ac7500.png)
