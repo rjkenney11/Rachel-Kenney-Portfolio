@@ -45,6 +45,14 @@ body {
     font-family: 'Special Elite', cursive;
 }
 
+a{
+    color: #6dc4ca;
+  }
+
+  a:hover {
+    color: #e16538;
+  }
+
 .mishmish{
     height: 210px;
     width: 220px;
