@@ -141,3 +141,12 @@ hr {
     margin-top: 0px;
     margin-bottom:5px;
 }
+
+.advert{
+    margin-left: 30px;
+    height: 480px;
+    width: 320px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #303030;
+}
