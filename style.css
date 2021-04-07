@@ -146,7 +146,7 @@ hr {
     margin-left: 30px;
     height: 480px;
     width: 320px;
-    border-width: 1px;
+    border-width: 8px;
     border-style: solid;
-    border-color: #303030;
+    border-color: #f2eddb;
 }
