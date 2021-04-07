@@ -72,13 +72,13 @@ a{
     top: 0;
 }
 
-.carousel-control-next,
-.carousel-control-prev /*, .carousel-indicators */ {
+.carousel-control-next, .carousel-control-prev /*, .carousel-indicators */ {
     filter: invert(100%);
-    width: 2%;
-    margin-top: -10px;
 }
-
+  
+  .carousel-control-next {
+    margin-right: -65px;
+  }
 
 .heading{
     text-align: center;
