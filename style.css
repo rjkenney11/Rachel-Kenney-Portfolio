@@ -1,8 +1,8 @@
 body {
-    background-image: url("https://user-images.githubusercontent.com/74163812/113333708-c764a400-92f0-11eb-8ec0-eafaf2a6a456.png");
+    background-image: url("https://user-images.githubusercontent.com/74163812/113887841-d97e9080-978f-11eb-8314-1ad90bd2c021.png");
     background-size: 100% 100%;
-    width: 100%;
-    height: 100%;
+    /* width: 100%;
+    height: 100%; */
     font-family: 'Special Elite', cursive;
    }
 
@@ -29,7 +29,7 @@ body {
     padding-top: 0px;
     background-color: #efdfc8;
     margin-top: 25px;
-    margin-left: 22%;
+    margin-left: 24%;
     font-family: 'Special Elite', cursive;
     border-style: solid;
     flex-basis: auto;
